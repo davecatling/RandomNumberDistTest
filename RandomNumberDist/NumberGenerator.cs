@@ -1,4 +1,4 @@
-﻿namespace BenfordLawChecker
+﻿namespace RandomNumberDistCheck
 {
     internal class NumberGenerator
     {

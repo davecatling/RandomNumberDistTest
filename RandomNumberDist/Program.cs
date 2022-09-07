@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace BenfordLawChecker
+namespace RandomNumberDistCheck
 {
     internal class Program
     {
